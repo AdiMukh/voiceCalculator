@@ -23,6 +23,7 @@ body{
 
 #result{
 	height: 175px;
+	color: white;
 }
 
 #history{
@@ -32,6 +33,7 @@ body{
     font-size: 20px;
     color: #919191;
     margin-top: 10px;
+	color: white;
 }
 
 #output{
@@ -39,12 +41,14 @@ body{
     height: 100px;
     margin: 10px 20px;
     font-size: 30px;
+	color: white;
 }
 
 #output-text{
 	width: 250px;
 	height: 120px;
 	float: left;
+	color: white;
 }
 #microphone{
 	height: 30px;
@@ -80,6 +84,7 @@ body{
 
 #keyboard{
     height: 475px;
+	color: white;
 }
 
 .operator{
@@ -91,6 +96,7 @@ body{
     border-radius: 50%;
     border-width: 0;
     font-size: 30px;
+    color: white;
 }
 
 .number, .empty{
@@ -103,6 +109,7 @@ body{
     border-width: 0;
     font-weight: bold;
     font-size: 25px;
+    color: white;
 }
 
 .number, .operator, .empty{
@@ -131,6 +138,7 @@ button:nth-child(17){
     border-width: 0;
     font-weight: bold;
     font-size: 25px;
+    color: white;
 }
 
 button:nth-child(1){
